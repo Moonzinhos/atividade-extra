@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    background-color: orange;
+    font-family: 'Architects Daughter', cursive;
+}
+
+h1 {
+    margin: 0;
+}
+
+#topo-do-site {
+    background-color: black;
+    color: red;
+    border-style: solid;
+    border-color: red;
+    text-align: center;
+    padding: 8px;
+    float: right;
+}
+
+.corpo {
+    margin: 24px;
+    padding: 16px;
+}
+
+h2 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+h3 {
+    margin-top: 32px;
+    margin-left: 64px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin-left: 64px;
+}
+
+p {
+    margin-left: 64px;
+}
+
+.vitaminadeabacate {
+    text-align: right;
+    margin: 100px;      
+}
+
+.vitaminadeaçai {
+    text-align: left;   
+}
+
+.vitaminadebananacomaveia {
+    text-align: right;
+    margin: 100px;      
+}
+
+.vitaminademorango {
+    text-align: left;   
+}
+
+.vitaminadepessego {
+    text-align: right;
+    margin: 100px;      
+}
+
+.vitaminaderomã {
+    text-align: left;   
+}
+
+.rodapé {
+    text-align: center;
+    background-color: black;
+    color: red;
+    border-style: solid;
+    border-color: red;
+    padding: 8px;
+    float: left;
+}
+
+#vitaminasemlactose {
+    text-align: center;
+    margin-top: 64px;
+    float: right;
+}
+
+#imagemsemlactose {
+    float: right;
+    width: 600px;
+    height: 300px;
+    margin: 100px;
+    margin-top: 32px;
+    margin-left: 3500px;
+}
